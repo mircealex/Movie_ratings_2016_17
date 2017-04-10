@@ -1,5 +1,5 @@
 # Movie ratings (2016 and 2017) - IMDB, Fandango, Metacritic, RottenTomatoes
-This repo contains a dataset with movie ratings for 214 of the most popular movies in 2016 and 2017.
+This repo contains a dataset with movie ratings for 214 of the most popular movies in 2016 and 2017. It also contains a project I did using this dataset.
 
 The data was up to date on March 22, 2017. Significant changes should be expected mostly for movies released in 2017.
 
