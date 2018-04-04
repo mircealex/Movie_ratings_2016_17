@@ -1,7 +1,8 @@
 # Movie ratings (2016 and 2017) - IMDB, Fandango, Metacritic, RottenTomatoes
-This repo contains a dataset (`movie_ratings_16_17.csv`) with movie ratings for 214 of the most popular movies in 2016 and 2017. It also contains a project I did using this dataset.
 
-The data was up to date on March 22, 2017. Significant changes should be expected mostly for movies released in 2017.
+This repository contains all the data I used for the article [*Whose ratings should you trust? IMDB, Rotten Tomatoes, Metacritic, or Fandango?*](https://medium.freecodecamp.org/whose-reviews-should-you-trust-imdb-rotten-tomatoes-metacritic-or-fandango-7d1010c6cf19).
+
+`movie_ratings_16_17.csv` contains movie ratings data for 214 of the most popular movies (with a significant number of votes) released in 2016 and 2017. As of March 22, 2017, the ratings were up to date. Significant changes should be expected mostly for movies released in 2017.
 
 
 Column | Description
